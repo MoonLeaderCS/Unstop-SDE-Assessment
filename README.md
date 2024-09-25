@@ -24,3 +24,16 @@ Design and implement a Seat Reservation System within Coach for Train under give
 	5. Run command to start application "ng serve"
 	6. Open "http://localhost:4200/" from Browser to see Live Application.
 	7. Thankyou!
+
+## Live Project Snapshots:
+
+ ![Screenshot (132)](https://github.com/user-attachments/assets/02a3ebb7-baf8-45f9-83b7-ab5b7b0d4069)
+
+![Screenshot (133)](https://github.com/user-attachments/assets/02ea16cd-3ab9-43ad-a7c1-a0bc270fa5c2)
+
+![Screenshot (134)](https://github.com/user-attachments/assets/15e24bd6-bc77-4e2a-86a0-c5a833c9396c)
+
+![Screenshot (135)](https://github.com/user-attachments/assets/0990bf1b-fe5b-47ab-9cd4-8e97ea480853)
+
+![Screenshot (136)](https://github.com/user-attachments/assets/a5cdc414-328f-48a3-921f-98393d21bd3d)
+
